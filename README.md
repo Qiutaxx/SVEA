@@ -10,13 +10,13 @@ Structural variations (SVs) are a pervasive and impactful class of genetic varia
 6.pysam  
 
 ## Running
-1.encode_RGB.py  
-A script to encode alignment information into an RGB image. Requires a VCF file and a BAM file as input.　　
-2.singledatasets_5fold.py  
+**1.encode_RGB.py**  
+A script to encode alignment information into an RGB image. Requires a VCF file and a BAM file as input.  　
+**2.singledatasets_5fold.py**  
 A script for single-dataset cross-validation. Requires a folder of images from a single dataset as input.  
-3.cross_train.py  
+**3.cross_train.py**  
 A script for cross-dataset cross-validation. Requires folders of images from multiple datasets as input.  
-4.model_test.py  
+**4.model_test.py**  
 A script for comparative experiments. Requires folders of images from multiple datasets and model architectures as input.  
 
 ## Contact
